@@ -1,2 +1,2 @@
 # Pixarmovies
-Data Visualization Pixar Movies
+Exploratory data analysis of the Pixar Movies dataset as part of dataquest missions.
